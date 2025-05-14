@@ -3,6 +3,10 @@
 🚀 **What is this project?**
 Create-code-new-on-Hyggshi-OS is a source code repository for developing and extending the Hyggshi OS operating system.
 
+😼 **Humor alert**
+> GitHub: "I see just one Luau line and I count it at 98.8%!"
+> ![GitHub says bullshit is bullshit](https://cdn2.fptshop.com.vn/unsafe/meme_danh_nhau_8_e53943bbc4.jpg)
+
 📌 **Key features**
 - Contains sample code, APIs and support tools.
 
