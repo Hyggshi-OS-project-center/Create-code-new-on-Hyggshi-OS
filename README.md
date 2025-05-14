@@ -1,28 +1,46 @@
-### Create-code-new-on-Hyggshi-OS
+# 🚀 Create-code-new-on-Hyggshi-OS
 
-🚀 **What is this project?**
-Create-code-new-on-Hyggshi-OS is a source code repository for developing and extending the Hyggshi OS operating system.
+**Create-code-new-on-Hyggshi-OS** is the open source development site for Hyggshi OS — a platform being built in Roblox Studio, focusing on creative experiences and simulation technology.
 
-😼 **Humor alert**
-> GitHub: "I see just one Luau line and I count it at 98.8%!"
-> ![GitHub says bullshit is bullshit](https://cdn2.fptshop.com.vn/unsafe/meme_danh_nhau_8_e53943bbc4.jpg)
+---
 
-📌 **Key features**
-- Contains sample code, APIs and support tools.
+## 🐱 GitHub and Luau - A “deep” relationship
 
-- For developers participating in Hyggshi OS.
+> GitHub: “I see just one Luau line and I count it at 98.8%!”
 
-- Extensible and contributed by the community.
+![Luau 98.8% cat meme](https://cdn2.fptshop.com.vn/unsafe/meme_danh_nhau_8_e53943bbc4.jpg)
 
-🛠 **Install**
-To clone this repository:
-```bash
-git clone https://github.com/nguyenminhphucHSI/Create-code-new-on-Hyggshi-OS.git
-cd Create-code-new-on-Hyggshi-OS
-```
+---
 
-📜 **License**
-This project is released under the **Apache-2.0 License**.
+## 🛠️ Tech Stack
 
-💬 **Contribute**
-Open an issue or pull request if you want to contribute to the project!
+- **Programming Language:** Luau (Roblox)
+- **Platform:** Roblox Studio
+- **License:** Apache-2.0
+
+---
+
+## 👨‍💻 Contributors
+
+- [HyggshiOSDeveloper](https://github.com/HyggshiOSDeveloper)
+- [nguyenminhphucHSI](https://github.com/nguyenminhphucHSI)
+
+---
+
+## 📊 Language Statistics
+
+- `Lua`: 50.0%
+- `Luau`: 50.0%
+> *GitHub confused but still vibing...*
+
+---
+
+## 📎 Notes
+
+📝 This project may include experimental code, file systems, and various auxiliary tools. Consider it the “core” for Hyggshi OS!
+
+---
+
+## 💬 Want to contribute?
+
+Pull requests and issues are always welcome!
